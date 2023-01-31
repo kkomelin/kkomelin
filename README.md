@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F76EE&width=300&height=40&lines=Software+is+my+calling)](https://git.io/typing-svg)
 
 <!--
 **kkomelin/kkomelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
